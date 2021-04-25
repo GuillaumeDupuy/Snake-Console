@@ -1,4 +1,5 @@
 #include <SFML/Graphics.hpp>
+#include <SFML/Graphics/Texture.hpp>
 #include <time.h>
 using namespace sf;
 
@@ -52,10 +53,44 @@ int main()
 
 	RenderWindow window(VideoMode(w, h), "Snake Game!");
 
-	Texture t1, t2;
-	t1.loadFromFile("C:/Users/guill/source/repos/snake/white.png");
-	t2.loadFromFile("C:/Users/guill/source/repos/snake/red.png");
+	//test1
 
+	/*sf::Texture t1;
+	sf::Image image1;
+	image1.loadFromFile("white.png");
+	t1.loadFromImage("white.png");
+
+	sf::Texture t2;
+	sf::Image image2;
+	image2.loadFromFile("red.png");
+	t2.loadFromImage("image2");
+
+	//test2
+
+	// Load a texture from a file
+	sf::Texture t1;
+	if (!t1.loadFromFile("white.png"))
+		return -1;
+
+	// Assign it to a sprite
+	sf::Sprite sprite1;
+	sprite1.setTexture(t1);
+
+	// Load a texture from a file
+	sf::Texture t2;
+	if (!t2.loadFromFile("red.png"))
+		return -1;
+
+	// Assign it to a sprite
+	sf::Sprite sprite2;
+	sprite2.setTexture(t2);*/
+
+	//test3
+
+	Texture t1, t2;
+	t1.loadFromFile("white.png");
+	t2.loadFromFile("red.png");
+	
 	Sprite sprite1(t1);
 	Sprite sprite2(t2);
 
