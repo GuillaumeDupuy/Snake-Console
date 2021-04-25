@@ -5,7 +5,7 @@ Depot git du projet libre en C++
 
 J'ai réalisé un autre projet snake plus poussé, en effet je l'ai fait avec une interface graphique. Le code est fonctionnel mais seule problème que je ne comprend pas, impossible d'afficher les images pour cause de violation d'accès 
 
-Les étapes pour lancer le projet :
+# Les étapes pour lancer le projet :
 
 1. Cloner le projet 
 2. Importer le dans Visual Studio
