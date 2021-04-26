@@ -1,9 +1,5 @@
-# snake-console
-Depot git du projet libre en C++
-
-# Ambitieux
-
-J'ai réalisé un autre projet snake plus poussé, en effet je l'ai fait avec une interface graphique. Le code est fonctionnel mais seule problème que je ne comprend pas, impossible d'afficher les images pour cause de violation d'accès 
+# snake-console-graphique
+Depot git du projet libre en C++. Deux jeux snakes : un en console et un en graphique
 
 # Les étapes pour lancer le projet :
 
@@ -26,4 +22,4 @@ Si vous voyez des refreshs, il faudra mettre le powershell en fenetré ou en ple
 
 ![image](https://user-images.githubusercontent.com/56391911/116011149-d60a5680-a623-11eb-9364-ef9794524479.png)
 ![image](https://user-images.githubusercontent.com/56391911/116011151-dd316480-a623-11eb-83da-ba265362465f.png)
-![image](https://user-images.githubusercontent.com/56391911/116011161-e7536300-a623-11eb-9a0d-10ebe8b77641.png)
+![image](https://user-images.githubusercontent.com/56391911/116047966-f4e50900-a674-11eb-884b-9316ae6502b2.png)
