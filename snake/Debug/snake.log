@@ -1,10 +1,10 @@
 ﻿  main.cpp
-C:\Users\guill\source\repos\snake\main.cpp(52,12): warning C4244: 'argument' : conversion de 'time_t' en 'unsigned int', perte possible de données
-C:\Users\guill\source\repos\snake\main.cpp(98,30): warning C4305: 'initialisation' : troncation de 'double' à 'float'
-C:\Users\guill\source\repos\snake\main.cpp(129,37): warning C4244: 'argument' : conversion de 'int' en 'float', perte possible de données
-C:\Users\guill\source\repos\snake\main.cpp(129,27): warning C4244: 'argument' : conversion de 'int' en 'float', perte possible de données
-C:\Users\guill\source\repos\snake\main.cpp(134,46): warning C4244: 'argument' : conversion de 'int' en 'float', perte possible de données
-C:\Users\guill\source\repos\snake\main.cpp(134,31): warning C4244: 'argument' : conversion de 'int' en 'float', perte possible de données
-C:\Users\guill\source\repos\snake\main.cpp(137,39): warning C4244: 'argument' : conversion de 'int' en 'float', perte possible de données
-C:\Users\guill\source\repos\snake\main.cpp(137,27): warning C4244: 'argument' : conversion de 'int' en 'float', perte possible de données
-  snake.vcxproj -> C:\Users\guill\source\repos\snake\Debug\snake.exe
+C:\Users\guill\source\Snake-Console\snake\main.cpp(52,12): warning C4244: 'argument' : conversion de 'time_t' en 'unsigned int', perte possible de données
+C:\Users\guill\source\Snake-Console\snake\main.cpp(98,30): warning C4305: 'initialisation' : troncation de 'double' à 'float'
+C:\Users\guill\source\Snake-Console\snake\main.cpp(136,37): warning C4244: 'argument' : conversion de 'int' en 'float', perte possible de données
+C:\Users\guill\source\Snake-Console\snake\main.cpp(136,27): warning C4244: 'argument' : conversion de 'int' en 'float', perte possible de données
+C:\Users\guill\source\Snake-Console\snake\main.cpp(141,46): warning C4244: 'argument' : conversion de 'int' en 'float', perte possible de données
+C:\Users\guill\source\Snake-Console\snake\main.cpp(141,31): warning C4244: 'argument' : conversion de 'int' en 'float', perte possible de données
+C:\Users\guill\source\Snake-Console\snake\main.cpp(144,39): warning C4244: 'argument' : conversion de 'int' en 'float', perte possible de données
+C:\Users\guill\source\Snake-Console\snake\main.cpp(144,27): warning C4244: 'argument' : conversion de 'int' en 'float', perte possible de données
+  snake.vcxproj -> C:\Users\guill\source\Snake-Console\snake\Debug\snake.exe

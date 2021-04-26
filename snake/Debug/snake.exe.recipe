@@ -2,18 +2,18 @@
 <Project>
   <ProjectOutputs>
     <ProjectOutput>
-      <FullPath>C:\Users\guill\source\repos\snake\Debug\snake.exe</FullPath>
+      <FullPath>C:\Users\guill\source\Snake-Console\snake\Debug\snake.exe</FullPath>
     </ProjectOutput>
   </ProjectOutputs>
   <ContentFiles>
     <ContentFile>
-      <FullPath>C:\Users\guill\source\repos\snake\green.png</FullPath>
+      <FullPath>C:\Users\guill\source\Snake-Console\snake\green.png</FullPath>
     </ContentFile>
     <ContentFile>
-      <FullPath>C:\Users\guill\source\repos\snake\red.png</FullPath>
+      <FullPath>C:\Users\guill\source\Snake-Console\snake\red.png</FullPath>
     </ContentFile>
     <ContentFile>
-      <FullPath>C:\Users\guill\source\repos\snake\white.png</FullPath>
+      <FullPath>C:\Users\guill\source\Snake-Console\snake\white.png</FullPath>
     </ContentFile>
   </ContentFiles>
   <SatelliteDlls />

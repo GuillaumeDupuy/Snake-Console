@@ -3,7 +3,7 @@
 #include <time.h>
 using namespace sf;
 
-int N = 30, M = 20;
+int N = 60, M = 50;
 int size = 16;
 int w = size * N;
 int h = size * M;
@@ -63,7 +63,7 @@ int main()
 	sf::Texture t2;
 	sf::Image image2;
 	image2.loadFromFile("red.png");
-	t2.loadFromImage("image2");
+	t2.loadFromImage("image2");*/
 
 	//test2
 
@@ -83,16 +83,16 @@ int main()
 
 	// Assign it to a sprite
 	sf::Sprite sprite2;
-	sprite2.setTexture(t2);*/
+	sprite2.setTexture(t2);
 
 	//test3
 
-	Texture t1, t2;
+	/*Texture t1, t2;
 	t1.loadFromFile("white.png");
 	t2.loadFromFile("red.png");
 	
 	Sprite sprite1(t1);
-	Sprite sprite2(t2);
+	Sprite sprite2(t2);*/
 
 	Clock clock;
 	float timer = 0, delay = 0.1;
@@ -111,12 +111,19 @@ int main()
 		{
 			if (e.type == Event::Closed)
 				window.close();
+			else if (Keyboard::isKeyPressed(Keyboard::Escape))
+				window.close();
 		}
 
 		if (Keyboard::isKeyPressed(Keyboard::Left)) dir = 1;
 		if (Keyboard::isKeyPressed(Keyboard::Right))  dir = 2;
 		if (Keyboard::isKeyPressed(Keyboard::Up)) dir = 3;
 		if (Keyboard::isKeyPressed(Keyboard::Down)) dir = 0;
+		if (Keyboard::isKeyPressed(Keyboard::Q)) dir = 1;
+		if (Keyboard::isKeyPressed(Keyboard::D))  dir = 2;
+		if (Keyboard::isKeyPressed(Keyboard::Z)) dir = 3;
+		if (Keyboard::isKeyPressed(Keyboard::S)) dir = 0;
+		
 
 		if (timer > delay) { timer = 0; Tick(); }
 
