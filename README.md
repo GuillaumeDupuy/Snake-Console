@@ -20,6 +20,14 @@ Si vous voyez des refreshs, il faudra mettre le powershell en fenetré ou en ple
 
 # Configuration
 
-![image](https://user-images.githubusercontent.com/56391911/116011149-d60a5680-a623-11eb-9364-ef9794524479.png)
-![image](https://user-images.githubusercontent.com/56391911/116011151-dd316480-a623-11eb-83da-ba265362465f.png)
-![image](https://user-images.githubusercontent.com/56391911/116047966-f4e50900-a674-11eb-884b-9316ae6502b2.png)
+  - Il faut bien vérifier que vous êtes en **Toutes les Configurations** et en **Toutes les Plateformes** sinon vous aurez soit des 
+  problèmes de lancement du projet dû l'éxécution sous le mauvais débogueur Windows de votre machine
+  - Il faut penser aussi à mettre les fichiers png et le dossier de la librairie dans votre **PATH** de vos variables d'environnement
+
+![image](https://user-images.githubusercontent.com/56391911/146242344-07d11966-e9a1-494a-88c4-a406b99891f8.png)
+![image](https://user-images.githubusercontent.com/56391911/146242605-4b34cb18-e5c8-4f31-84b7-079e60c033f3.png)
+ 
+![image](https://user-images.githubusercontent.com/56391911/146242207-aea126e4-f41e-41d7-9e00-6fbddeaedd4c.png) 
+![image](https://user-images.githubusercontent.com/56391911/146241788-90bd6f88-2970-4310-8030-0ce36ae6842c.png)
+![image](https://user-images.githubusercontent.com/56391911/146241916-f4205267-f285-46cf-acf4-4d897c40c0aa.png)
+![image](https://user-images.githubusercontent.com/56391911/146242010-44e18698-ad69-4246-9226-5e0cfc07a785.png)
