@@ -21,7 +21,7 @@ Si vous voyez des refreshs, il faudra mettre le powershell en fenetré ou en ple
 # Configuration Snake Graphique
 
   - Il faut bien vérifier que vous êtes en **Toutes les Configurations** et en **Toutes les Plateformes** sinon vous aurez des 
-  problèmes de lancement du projet dû l'éxécution sous le mauvais débogueur Windows de votre machine
+  problèmes de lancement du projet dû à l'éxécution sous le mauvais débogueur Windows de votre machine
   - Il faut penser aussi à mettre les fichiers png et le dossier de la librairie dans votre **PATH** de vos variables d'environnement
 
 ![image](https://user-images.githubusercontent.com/56391911/146242344-07d11966-e9a1-494a-88c4-a406b99891f8.png)
