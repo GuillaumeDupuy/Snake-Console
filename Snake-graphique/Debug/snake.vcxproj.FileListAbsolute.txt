@@ -1,0 +1,2 @@
+C:\Users\guill\source\repos\snake\Debug\snake.exe
+C:\Users\guill\source\Snake-Console\snake\Debug\snake.exe

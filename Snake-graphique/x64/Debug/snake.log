@@ -1,0 +1,10 @@
+﻿  main.cpp
+C:\Users\guill\Desktop\Ynov\Rendu Projet\Snake-Console-Graphique\Snake-graphique\main.cpp(56,12): warning C4244: 'argument' : conversion de 'time_t' en 'unsigned int', perte possible de données
+C:\Users\guill\Desktop\Ynov\Rendu Projet\Snake-Console-Graphique\Snake-graphique\main.cpp(109,30): warning C4305: 'initialisation' : troncation de 'double' à 'float'
+C:\Users\guill\Desktop\Ynov\Rendu Projet\Snake-Console-Graphique\Snake-graphique\main.cpp(142,37): warning C4244: 'argument' : conversion de 'int' en 'float', perte possible de données
+C:\Users\guill\Desktop\Ynov\Rendu Projet\Snake-Console-Graphique\Snake-graphique\main.cpp(142,27): warning C4244: 'argument' : conversion de 'int' en 'float', perte possible de données
+C:\Users\guill\Desktop\Ynov\Rendu Projet\Snake-Console-Graphique\Snake-graphique\main.cpp(147,46): warning C4244: 'argument' : conversion de 'int' en 'float', perte possible de données
+C:\Users\guill\Desktop\Ynov\Rendu Projet\Snake-Console-Graphique\Snake-graphique\main.cpp(147,31): warning C4244: 'argument' : conversion de 'int' en 'float', perte possible de données
+C:\Users\guill\Desktop\Ynov\Rendu Projet\Snake-Console-Graphique\Snake-graphique\main.cpp(150,39): warning C4244: 'argument' : conversion de 'int' en 'float', perte possible de données
+C:\Users\guill\Desktop\Ynov\Rendu Projet\Snake-Console-Graphique\Snake-graphique\main.cpp(150,27): warning C4244: 'argument' : conversion de 'int' en 'float', perte possible de données
+  snake.vcxproj -> C:\Users\guill\Desktop\Ynov\Rendu Projet\Snake-Console-Graphique\Snake-graphique\x64\Debug\snake.exe
