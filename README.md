@@ -5,20 +5,20 @@ Depot git du projet libre en C++. Deux jeux snakes : un en console et un en grap
 
 1. Cloner le projet 
 2. Importer le dans Visual Studio
-3. Faire les étapes Install et Configuration
+Seulement pour le snake graphique (3. Faire les étapes Install et Configuration)
 4. Lancer le projet
 
-# Option
+# Option Snake Terminal
 
 Si vous voyez des refreshs, il faudra mettre le powershell en fenetré ou en pleine écran pour supprimer l'appartion des resfresh
 
-# Install
+# Install Snake Graphique
 
   - lien install librarie : https://www.sfml-dev.org/download-fr.php
   - lien pour recompiler la librarie : https://www.sfml-dev.org/tutorials/2.5/compile-with-cmake-fr.php
   - CMake : https://cmake.org/download/
 
-# Configuration
+# Configuration Snake Graphique
 
   - Il faut bien vérifier que vous êtes en **Toutes les Configurations** et en **Toutes les Plateformes** sinon vous aurez soit des 
   problèmes de lancement du projet dû l'éxécution sous le mauvais débogueur Windows de votre machine
