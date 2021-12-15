@@ -5,7 +5,7 @@ Depot git du projet libre en C++. Deux jeux snakes : un en console et un en grap
 
 1. Cloner le projet 
 2. Importer le dans Visual Studio
-Seulement pour le snake graphique (3. Faire les étapes Install et Configuration)
+3. Faire les étapes Install et Configuration (Seulement pour le snake graphique )
 4. Lancer le projet
 
 # Option Snake Terminal
